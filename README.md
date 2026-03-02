@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ICE</h1>
 <h3 align="center">CS student from CMU.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://instagram.com/i_wxrrrr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_wxrrrr" height="30" width="40" /></a>
 </p>
@@ -33,9 +33,7 @@
   <a href="https://github.com/Waranyu82" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waranyu82&theme=dark" alt="Waranyu82's GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
+  <h4>-------------------------------------------------------------------------------------------------------------------------</h4>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313exqhfdiv7zj4qp2qsyfpqiv4m&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313exqhfdiv7zj4qp2qsyfpqiv4m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
