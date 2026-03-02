@@ -17,10 +17,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">My store game:</h3>
+<h3 align="left">Other:</h3>
 <p align="left">
   <a href="https://store.steampowered.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  <a href="https://https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  </a>
+  <a href="https://https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   </a>
 </p>
 <p align="left">
