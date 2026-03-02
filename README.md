@@ -23,15 +23,8 @@
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
-
 <p align="left">
   <a href="https://github.com/Waranyu82" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true&theme=dark" alt="Waranyu82's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waranyu82&theme=dark" alt="Waranyu82's GitHub Streak" />
   </a>
 </p>
-
-<div align="left">
-
-[![Waranyu82's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true&theme=dark)](https://github.com/Waranyu82)
-
-</div>
