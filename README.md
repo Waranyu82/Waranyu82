@@ -11,7 +11,7 @@
 
 <h3 align="left">My store game:</h3>
 <p align="left">
-  <a href="YOUR_LINK_HERE" target="_blank" rel="noreferrer">
+  <a href="store.steampowered.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
