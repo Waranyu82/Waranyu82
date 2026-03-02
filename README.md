@@ -24,16 +24,14 @@
   </a>
 </p>
 
-<p align="left"> 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true" alt="Waranyu82's GitHub Stats" />
-  </picture>
+<p align="left">
+  <a href="https://github.com/Waranyu82" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true&theme=dark" alt="Waranyu82's GitHub Stats" />
+  </a>
 </p>
+
+<div align="left">
+
+[![Waranyu82's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waranyu82&show_icons=true&theme=dark)](https://github.com/Waranyu82)
+
+</div>
