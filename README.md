@@ -15,13 +15,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<h3 align="left">Other:</h3>
-<p align="left">
-  <a href="https://store.steampowered.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  </a>
   <a href="https://https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
@@ -29,11 +22,19 @@
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   </a>
 </p>
+
+<h3 align="left">Other:</h3>
 <p align="left">
+  <a href="https://store.steampowered.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+</p>
+<p align="left">
+  <h3 align="left">🔥 Stats:</h3>
   <a href="https://github.com/Waranyu82" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waranyu82&theme=dark" alt="Waranyu82's GitHub Streak" />
   </a>
-  <h4>-------------------------------------------------------------------------------------------------------------------------</h4>
+<h3 align="left">🎵 Now Playing:</h3>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313exqhfdiv7zj4qp2qsyfpqiv4m&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313exqhfdiv7zj4qp2qsyfpqiv4m&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
