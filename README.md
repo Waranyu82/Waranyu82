@@ -22,8 +22,6 @@
   </a>
 </p>
 
-<h3 align="left">Other:</h3>
-<p align="left">
   <h3 align="left">🔥 Stats:</h3>
   <a href="https://github.com/Waranyu82" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waranyu82&theme=dark" alt="Waranyu82's GitHub Streak" />
